@@ -3,6 +3,7 @@
 ## Unreleased
 
 - **Features:**
+  - Update tested ruby versions to 2.3.8, 2.4.5, 2.5.5 and 2.6.2
   - Removed support for ruby 2.2 due to eol since 31.03.2018
 
 ## 0.4.3
