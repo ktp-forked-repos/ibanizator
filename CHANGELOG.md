@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+- **Features:**
+  - Removed support for ruby 2.2 due to eol since 31.03.2018
+
 ## 0.4.3
 
 - **Features:**
